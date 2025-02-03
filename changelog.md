@@ -4,3 +4,7 @@
 
 01.27.25
 - Uploaded Homework1.cs
+02.03.24
+- Uploaded ifGrade.cs and numInput.cs
+- Deleted ifGrade.cs and numInput.cs
+- Uploaded Homework2.cs
