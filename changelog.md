@@ -17,3 +17,6 @@
 
 02.24.25
 - Uploaded Homework5.cs
+
+03.10.25
+- Uploaded Homework6.cs
