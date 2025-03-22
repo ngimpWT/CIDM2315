@@ -20,3 +20,6 @@
 
 03.10.25
 - Uploaded Homework6.cs
+
+03.22.25
+- Uploaded Homework7.cs
